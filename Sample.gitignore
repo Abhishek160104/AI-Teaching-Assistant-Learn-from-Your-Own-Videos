@@ -1,0 +1,13 @@
+# Ignore large media files
+videos/
+audio/
+*.mp4
+*.avi
+*.mkv
+*.mp3
+*.wav
+
+# Ignore model/data files
+*.joblib
+*.pkl
+data/

@@ -1,1 +1,12 @@
-
+ai-teaching-assistant/
+│
+├── .gitignore          ← blocks videos/audio from uploading
+├── README.md           ← has Google Drive link for sample videos
+├── requirements.txt
+├── video_to_mp3.py
+├── mp3_to_json.py
+├── preprocess_json.py
+├── query_engine.py
+├── videos/.gitkeep     ← empty placeholder
+├── audio/.gitkeep      ← empty placeholder
+└── data/.gitkeep       ← empty placeholder

@@ -45,6 +45,8 @@ pip install -r requirements.txt
 
 ```
 Place all your video files inside the /videos folder.
+👉 [Click to Download Sample Videos](https://drive.google.com/drive/folders/1eQc_oCGTEhWEHWtccDQdAzTrugbKwf5T?usp=sharing)
+
 ```
 
 ### Step 2 — Convert Video to MP3
